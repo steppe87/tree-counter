@@ -1,5 +1,6 @@
 # Vorbedingungen
 - node mit npm ist installiert (https://nodejs.org/en/download/)
+- npm ist im Terminal nutzbar
 
 # Installation
 Im Root-Verzeichnis des Projekts folgenden Befehl ausführen
