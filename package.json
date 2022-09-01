@@ -1,0 +1,15 @@
+{
+    "name": "qplix-challenge-junior-backend",
+    "version": "1.0.0",
+    "description": "Qplic Challenge für Junior-Backend Entwickler",
+    "main": "dist/app.js",
+    "scripts": {
+        "start": "tsc && node dist/app.js"
+    },
+    "author": "Stephan Müller",
+    "license": "ISC",
+    "devDependencies": {
+        "tslint": "^5.12.1",
+        "typescript": "^3.3.3"
+    }
+}
